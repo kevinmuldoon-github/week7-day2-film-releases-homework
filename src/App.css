@@ -1,3 +1,23 @@
+
+#film-box {
+  border: 3px solid black;
+  padding: 20px;
+  width: 50%;
+  margin:auto;
+}
+
+#film-box button {
+
+  padding:20px;
+  background-color: #dff1f5;
+  width:100%;
+}
+
+#film-box button a {
+  text-decoration: none;
+  font-size: 25px;
+}
+
 .App {
   text-align: center;
 }
